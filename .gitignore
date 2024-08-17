@@ -1,1 +1,15 @@
 ~$*
+*.CWR
+*.DSP
+*.ELF
+*.GEN
+*.gsz
+*.IDA
+*.LCD
+*.LDS
+*.LOG
+*.MAS
+*.MFC
+*.OUT
+*.STE
+*.STG
