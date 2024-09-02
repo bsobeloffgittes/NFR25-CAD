@@ -1,0 +1,5 @@
+3DX_Ruland_Supplier_1: Ruland
+3DX_Ruland_Supplier: Ruland Manufacturing Co., Inc.
+3DX_Ruland_Part Number: US12-6-6-F
+3DX_Ruland_Description: Universal Joint, Single, Friction Bearing, Bores 0.3750"x0.3750", OD 0.745", L 2.690", Steel, COO USA
+3DX_Ruland_Product Page: <a target="_blank" href="https://www.ruland.com/US12-6-6-F.html">US12-6-6-F Product Page</a>
