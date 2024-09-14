@@ -1,0 +1,3 @@
+
+name	report-definition	force-vector	reference-frame	old-props	thread-ids	thread-names	per-zone?	average-over	report-type	scaled?	retain-instantaneous-values?	physics	geometry
+lift-coeff	lift	(0. 1. 1.)	"global"	(force-vector (0. 1. 1.) reference-frame "global" per-zone? #f average-over 1 thread-ids (9) thread-names (airfoils) header "" scaled? #t name "lift-coeff" type "lift" retain-instantaneous-values? #f)	(9)	(airfoils)	#f	1	""	#t	#f	()	()

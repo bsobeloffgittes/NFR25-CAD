@@ -1,0 +1,8 @@
+AnimationSequence1.0
+NAME: pressure-field
+WINID: 5
+STORAGE: 5
+PLOTANIMATION: 0
+FRAMES: 2
+Frame 0 5 pressure-field_0000.hsf 5
+Frame 1 5 pressure-field_0001.hsf 5
