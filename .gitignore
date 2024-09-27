@@ -1,16 +1,19 @@
 # SOLIDWORKS autosaves
 ~$*
+*.CWR
+*.DSP
+*.ELF
+*.GEN
 
+*.IDA
 *.LCD
-*.LCN
-*.LCP
-*.LCM
+*.LDS
+*.LOG
 
-*.TEM
 
-*.FTR
-
-*.RSL
+*.OUT
+*.STE
+*.STG
 
 # MATLAB autosaves
 *.asv
