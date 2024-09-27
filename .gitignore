@@ -4,13 +4,13 @@
 *.DSP
 *.ELF
 *.GEN
-*.gsz
+
 *.IDA
 *.LCD
 *.LDS
 *.LOG
 
-*.MFC
+
 *.OUT
 *.STE
 *.STG
