@@ -9,7 +9,7 @@
 *.LCD
 *.LDS
 *.LOG
-
+*.MAS
 *.MFC
 *.OUT
 *.STE
