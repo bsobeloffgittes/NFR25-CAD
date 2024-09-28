@@ -1,0 +1,16 @@
+[StartTime]
+RearUpright NFR25-Braking Case.MFC=1m:1s
+[SolverState]
+RearUpright NFR25-Braking Case.MFC=2
+[MainFrame]
+RearUpright NFR25-Braking Case.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPKDCAAAAALIBAAAAACKDAAAAAOFCAAAAA
+[ShowMin]
+RearUpright NFR25-Braking Case.MFC=No
+[SolverType]
+RearUpright NFR25-Braking Case.MFC=Linear Analysis
+[StudyType]
+RearUpright NFR25-Braking Case.MFC=0
+[StudyName]
+RearUpright NFR25-Braking Case.MFC=Braking Case
+[Solver]
+RearUpright NFR25-Braking Case.MFC=Iterative
