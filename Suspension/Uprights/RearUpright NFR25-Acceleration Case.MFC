@@ -1,9 +1,9 @@
 [StartTime]
-RearUpright NFR25-Acceleration Case.MFC=2s
+RearUpright NFR25-Acceleration Case.MFC=1m:2s
 [SolverState]
 RearUpright NFR25-Acceleration Case.MFC=2
 [MainFrame]
-RearUpright NFR25-Acceleration Case.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPKDCAAAAALIBAAAAACKDAAAAAOFCAAAAA
+RearUpright NFR25-Acceleration Case.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPGCAAAAACNAAAAAAHNDAAAAAFKBAAAAA
 [ShowMin]
 RearUpright NFR25-Acceleration Case.MFC=No
 [SolverType]
@@ -13,4 +13,4 @@ RearUpright NFR25-Acceleration Case.MFC=0
 [StudyName]
 RearUpright NFR25-Acceleration Case.MFC=Acceleration Case
 [Solver]
-RearUpright NFR25-Acceleration Case.MFC=Sparse
+RearUpright NFR25-Acceleration Case.MFC=Iterative
