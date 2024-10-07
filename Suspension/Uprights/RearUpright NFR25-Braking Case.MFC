@@ -1,9 +1,9 @@
 [StartTime]
-RearUpright NFR25-Braking Case.MFC=1m:2s
+RearUpright NFR25-Braking Case.MFC=1m:6s
 [SolverState]
 RearUpright NFR25-Braking Case.MFC=2
 [MainFrame]
-RearUpright NFR25-Braking Case.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHHBAAAAAELDAAAAAKECAAAAA
+RearUpright NFR25-Braking Case.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPKDCAAAAALIBAAAAACKDAAAAAOFCAAAAA
 [ShowMin]
 RearUpright NFR25-Braking Case.MFC=No
 [SolverType]
@@ -14,3 +14,5 @@ RearUpright NFR25-Braking Case.MFC=0
 RearUpright NFR25-Braking Case.MFC=Braking Case
 [Solver]
 RearUpright NFR25-Braking Case.MFC=Iterative
+[Dynamic]
+RearUpright NFR25-Braking Case.MFC=0
