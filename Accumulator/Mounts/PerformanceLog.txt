@@ -1,2 +1,2 @@
-Number of Contacts: 2
-Number of contact data: 2291
+Number of Contacts: 0
+Number of contact data: 0
