@@ -1,0 +1,23 @@
+<mstns:materials xmlns:mstns="http://www.solidworks.com/sldmaterials" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:slodcolorswatch="http://www.solidworks.com/sldcolorswatch" xsi:schemaLocation="http://www.solidworks.com/sldmaterials&amp;#xA;E:\Temp\sldmaterials.xsd" version="2008.03">
+  <curves id="curve0">
+    <point x="1.0" y="1.0" />
+    <point x="2.0" y="1.0" />
+    <point x="3.0" y="1.0" />
+  </curves>
+  <classification name="Metal_SS Precip/Transform">
+    <material name="17-4PH (AMS 5343)" matid="160560" appdata="Model Created using Matereality on 11/6/2024&#xA;&#xA;Information about material properties used to create this model are available at:&#xA;https://my.matereality.com/SolidWorks/TestingInformation?resultids=160560%2C160562%2C160563%2C160571&amp;study=StaticAnalysis&amp;model=LinearElasticIsotropic&amp;options=None&#xA;Copy and Paste into the address bar of your browser to view&#xA;&#xA;Property Notes&#xD;&#xA;DENS: Perry, Robert H., and Cecil H. Chilton. Chemical Engineers’ Handbook. Tokyo: McGraw-Hill, 1973. Print.&#xD;&#xA;&#xA;" failurecriteria="4">
+      <physicalproperties>
+        <EX value="196500000000" displayname="Elastic modulus" />
+        <NUXY value="0.27" displayname="Poisson's ratio" />
+        <GXY value="77220000000" displayname="Shear modulus" />
+        <DENS value="7830" displayname="Mass density" />
+        <SIGYLD value="896400000" displayname="Yield strength" />
+        <REFTEMP value="300" displayname="" />
+        <materialmodel name="Unknown SolidWorks Model" type="0" />
+      </physicalproperties>
+      <shaders>
+        <pwshader2 path="\Metal\Steel\polished steel.p2m" name="polished steel" />
+      </shaders>
+    </material>
+  </classification>
+</mstns:materials>
