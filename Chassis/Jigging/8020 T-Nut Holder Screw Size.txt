@@ -1,1 +1,1 @@
-﻿"8020 T-nut Holder"= .25
+﻿"8020 T-nut Holder"= .165
