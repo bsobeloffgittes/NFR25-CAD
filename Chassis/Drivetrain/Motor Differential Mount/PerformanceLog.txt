@@ -1,2 +1,2 @@
 Number of Contacts: 2
-Number of contact data: 2584
+Number of contact data: 3681
