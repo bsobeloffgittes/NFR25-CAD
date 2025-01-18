@@ -1,0 +1,2 @@
+﻿"80/20 to Center Hole"= .64in
+"80/20 from Edge"= 0.5in

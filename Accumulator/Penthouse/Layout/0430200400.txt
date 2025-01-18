@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05062020-037376";"";
+"REFERENCE";"430200400";"";
+"TraceParts.PartTitle";"Micro-Fit 3.0";"";
+"TraceParts.InstanceId";"90-05062020-0373762N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Micro-Fit 3.0 Plug Housing, Dual Row, 4 Circuits, UL 94V-0, Panel Mount Ears, Low-Halogen, Black";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";
