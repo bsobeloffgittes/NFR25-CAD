@@ -14,6 +14,11 @@
 *.OUT
 *.STE
 *.STG
+*.gsz
+*.MFC
+*.MAS
+*.SL4
+PerformanceLog.txt
 
 # MATLAB autosaves
 *.asv

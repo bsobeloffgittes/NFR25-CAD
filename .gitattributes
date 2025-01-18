@@ -1,0 +1,1 @@
+_NFR25_Vehicle_Assembly.SLDASM filter=lfs diff=lfs merge=lfs -text
