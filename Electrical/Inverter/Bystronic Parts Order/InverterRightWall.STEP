@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('InverterRightWall.STEP',
+    '2025-01-31T05:34:23',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2024',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT_CONTEXT ( 'NONE', #4, 'mechanical' ) ;
+#2 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #3 ) ) ;
+#3 = PRODUCT ( 'InverterRightWall', 'InverterRightWall', '', ( #1 ) ) ;
+#4 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#5 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#6 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #8, #7 ) ;
+#7 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #5, 'design' ) ;
+#8 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #3, .NOT_KNOWN. ) ;
+#9 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #5 ) ;
+#10 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #4 ) ;
+#11 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #6 ) ;
+ENDSEC;
+END-ISO-10303-21;
