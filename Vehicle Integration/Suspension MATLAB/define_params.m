@@ -103,12 +103,13 @@ function param = define_params()
     % LLTD target (stability) 1.1607 (53.72% front)
 
     % Wheel rate stiffnesses
-    param.k_wf = 260;
-    param.k_wr = 200;
+    param.k_wf = 200;
+    param.k_wr = 180;
 
     % ARB stiffnesses (lb-in/rad)
     param.k_arb_f = 0.90e+05; % 0.36e+05
-    param.k_arb_r = 0.50e+05; % 0.10e+05
+%     param.k_arb_r = 0.50e+05; % 0.10e+05
+    param.k_arb_r = 0;
 
     [param.k_wheel_center_f, param.k_wheel_center_r, param.K_f, param.K_r, param.K_s_f, param.K_s_r, param.R_roll] = get_stiffnesses(param);
 
@@ -120,6 +121,10 @@ function param = define_params()
     % ARB motion ratios (roll angle phi / arb twist angle theta)
     param.mr_arb_f = 1;
     param.mr_arb_r = 1;
+
+    % Spring rate calculations
+    param.front_mr = 1.02;
+    param.rear_mr = 1.02;
 
     
 
