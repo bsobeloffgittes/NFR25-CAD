@@ -31,7 +31,7 @@ for v = 600
 
 
     % ACCELERATION LOOP
-    for delta = linspace(0, param.steering_angle, 100)
+    for delta = linspace(0, param.steering_angle, 10)
         fprintf("%0.2d\n", delta/param.steering_angle)
         
 %         fprintf("\n\nBegining new steering angle:\n")
@@ -79,7 +79,7 @@ for v = 600
 %     fprintf("\n\n\n\nStarting Braking Loop\n\n\n")
 
     % BRAKING LOOP
-    for delta = linspace(0, param.steering_angle, 100)
+    for delta = linspace(0, param.steering_angle, 10)
 %     for delta = 4
 %         fprintf("\n\nBegining new steering angle:\n")
         fprintf("%0.2d\n", 1 + delta/param.steering_angle)

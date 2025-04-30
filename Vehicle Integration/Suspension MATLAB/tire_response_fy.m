@@ -10,7 +10,7 @@ fz(fz > 0) = 0;
 %         fy = 0;
 %     else
     
-        correction_coeff = 2/3;
+        correction_coeff = 0.5;
     
         % Load coefficient file
         coeffs = load('magic_coefficients.mat');

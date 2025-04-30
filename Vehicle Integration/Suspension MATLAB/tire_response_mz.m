@@ -11,7 +11,7 @@ function mz = tire_response_mz(alpha, fz)
 %         mz = 0;
 %     else
 
-        correction_coeff = 2/3;
+        correction_coeff = 0.5;
     
         % Load coefficient file
         coeffs = load('magic_coefficients.mat');
