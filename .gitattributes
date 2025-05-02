@@ -1,3 +1,4 @@
 _NFR25_Vehicle_Assembly.SLDASM filter=lfs diff=lfs merge=lfs -text
 Vehicle[[:space:]]Integration/Three-View[[:space:]]Drawings[[:space:]]-[[:space:]]Top[[:space:]]View.SLDDRW filter=lfs diff=lfs merge=lfs -text
 Vehicle[[:space:]]Integration/Three-View[[:space:]]Drawings[[:space:]]-[[:space:]]Side[[:space:]]View.SLDDRW filter=lfs diff=lfs merge=lfs -text
+Vehicle[[:space:]]Integration/Three-View[[:space:]]Drawings[[:space:]]-[[:space:]]Front[[:space:]]View.SLDDRW filter=lfs diff=lfs merge=lfs -text
