@@ -7,9 +7,9 @@ param = define_params();
 
 % VEHICLE PARAMEETERS
 
-m_s = param.m_sf / 2; % blob
-k_w = param.k_wheel_center_f; % lbf / in
-c_w = 18; %  lbf / (in/s)
+m_s = param.m_sr / 2; % blob
+k_w = param.k_wheel_center_r; % lbf / in
+c_w = 14; %  lbf / (in/s)
 m_u = param.m_u(1); % blob
 
 % Ride frequency and damping ratio
@@ -35,7 +35,7 @@ x = linspace(0, t_final * v, length(t));
 
 y_g = zeros(size(t));
 
-bump_height = 0.375;
+bump_height = 0.25;
 
 y_g(x <= param.tire_d / 2) = max(0, min(bump_height, sqrt((param.tire_d / 2) .^ 2 - ((param.tire_d / 2) - (x(x <= param.tire_d / 2)) .^ 2)) - (param.tire_d / 2) + bump_height));
 
