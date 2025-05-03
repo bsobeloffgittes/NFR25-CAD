@@ -1,0 +1,4 @@
+﻿"can_diameter"= 2in
+"D1@can" = "can_thickness"
+"inlet_diameter"=9.525
+"D1@Sketch13"="inlet_diameter"
