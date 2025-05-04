@@ -1,0 +1,6 @@
+﻿"can_outer_diameter"=50.8
+"D1@Sketch1"="can_outer_diameter"
+"can_thickness"= 2.3
+"D2@Sketch1"="can_outer_diameter"-2*"can_thickness"
+"can_height"=104.902
+"D1@Boss-Extrude1"="can_height"
