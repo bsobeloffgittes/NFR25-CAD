@@ -50,6 +50,7 @@ PerformanceLog.txt
 *.log
 *.sql
 *.sqlite
+'Vehicle_Integration/Suspension MATLAB/Tire Data/Round 9 Testing Data'
 
 # OS generated files #
 ######################
